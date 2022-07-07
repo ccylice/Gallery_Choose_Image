@@ -1,1 +1,2 @@
 Gallery_Choose_Image
+从手机图库中选择图片并展示
